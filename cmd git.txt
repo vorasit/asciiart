@@ -1,0 +1,15 @@
+git config --global user.name "Pinzaa"
+
+git config --global user.email vorasit.pin@gmail.com
+
+ตั้งโฟลเดอรแบบ local คำสั่ง  git init 
+
+ติดตามไฟลนี้  อัปเดตข้อมูลที่แก้   git add maruko.py
+
+git status
+
+git commit -m "First commit hello maruko"
+
+git log
+
+git log --oneline
